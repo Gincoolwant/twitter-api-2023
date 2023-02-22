@@ -1,2 +1,14 @@
 JWT_SECRET= #輸入你的JWT SECRET
 IMGUR_Client_ID= #IMGUR存取帳號
+DEVDB_USERNAME= #Data base user name for development
+DEVDB_PASSWORD= #Data base password for development
+DEVDB_DATABASE= #Data base name for development
+DEVDB_HOST= #Data base host for development 
+TESTDB_USERNAME= #Data base usernamefor test
+TESTDB_PASSWORD= #Data base password for test
+TESTDB_DATABASE= #Data base name for test
+TESTDB_HOST= #Data base host for test
+PRODB_USERNAME= #Data base username for production 
+PRODB_PASSWORD= #Data base password for production 
+PRODB_DATABASE= #Data base name for production 
+PRODB_HOST= #Data base host for production 
